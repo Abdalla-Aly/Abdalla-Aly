@@ -1,4 +1,8 @@
-### Hi there friends 👋
+### Hi I'm **Abdalla**
+A full stack **Software Engineer** my daily routine is ***Coding*** or ***Nothing***
+
+This is my [***portfolio***](google.com) check it out.
+
 
 <!--
 **Abdalla-Aly/Abdalla-Aly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
