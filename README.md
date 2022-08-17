@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abdalla</h1>
-<h3 align="center">A passionate Software Engineer from Somalia</h3>
+<h3 align="center">I'm Software Engineer, learning something new every day and solving real world problems is what drives me to sit infront of my computer the whole day</h3>
 
 
 
 - 🔭 I’m currently working on **Alx-low level programming**
 
-- 🌱 I’m currently learning **Full stack software engineer at Alx**
+- 🌱 I’m currently learning **Full stack software engineering at Alx**
 
 - 📫 How to reach me **cabdallac808@gmail.com**
 
-- ⚡ Fun fact **I think open sources**
+- ⚡ Fun fact **I think i'm the one who shall solve your problems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
