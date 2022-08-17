@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdalla</h1>
-<h3 align="center">I'm Software Engineer, learning something new every day and solving real world problems is what drives me to sit infront of my computer the whole day</h3>
+<h1 align="center">Hi 👋, I'm Abdalla, A Software Engineer</h1>
+<h3 align="center">learning something new , developing useful software products and solving real world problems is what drives me to sit infront of my developing tools every single day</h3>
 
 
 
