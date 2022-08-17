@@ -1,7 +1,5 @@
-### Hi I'm **Abdalla**
-A full stack **Software Engineer** my daily routine is ***Coding*** or ***Nothing***
 
-This is my [***portfolio***](google.com) check it out.
+
 
 
 <!--
