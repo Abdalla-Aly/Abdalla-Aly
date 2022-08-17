@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Abdalla, A Software Engineer</h1>
-<h3 align="center">learning something new , developing useful software products and solving real world problems is what drives me to sit infront of my developing tools every single day</h3>
+<h1 align="center">Hi 👋, I'm Abdalla</h1>
+<h2 align="center">A junior software engineer</h2>
+<h3 align="center">Learning something new , developing useful software products and solving real world problems is what drives me to sit infront of my developing tools every single day</h3>
 
 
 
-- 🔭 I’m currently working on **Alx-low level programming**
+- 🔭 I’m currently working on **ongoing personal projects**
 
 - 🌱 I’m currently learning **Full stack software engineering at Alx**
 
