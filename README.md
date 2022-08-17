@@ -6,7 +6,8 @@
 
 - 🔭 I’m currently working on **ongoing personal projects**
 
-- 🌱 I’m currently learning **Full stack software engineering at Alx**
+- 🌱 I’m currently learning **Full stack software engineering at [alx software engineering](alx software engineering)
+**
 
 - 📫 How to reach me **cabdallac808@gmail.com**
 
