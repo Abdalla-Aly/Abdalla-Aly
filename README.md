@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdalla</h1>
-<h2 align="center">A junior software engineer</h2>
+<h2 align="center">A software engineer</h2>
 <h3 align="center">Learning something new , Solving real world problems and Developing useful software products is what drives me to sit infront of my developing tools every single day</h3>
 
 
